@@ -1,0 +1,131 @@
+type,left,right,similarity,decision,reason
+Technology,Sonos Era 100,Sonos Era 300,0.9031683206558228,MERGE_VECTOR,
+Company,1Kosmos,3M,0.4302557110786438,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,1Kosmos,Sonos,0.4172789454460144,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,1Kosmos,OnePlus,0.38334977626800537,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,3M,3M Co,0.8207200169563293,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,3M,DJI,0.26678094267845154,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,3M Co,Worldcoin,0.3141986131668091,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Amazon Web Services,ServiceNow,0.4246244430541992,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Amazon Web Services,Telent Technology Services,0.358489990234375,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Amazon Web Services,EarthSense,0.3139258623123169,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Andreessen Horowitz,Temasek,0.3983073830604553,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Andreessen Horowitz,Patrick Racz's firm,0.27316737174987793,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Andreessen Horowitz,Waymo,0.2555963397026062,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Apple,Intel,0.5135538578033447,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Apple,SpaceX,0.4508218765258789,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Apple,Sony,0.4420659840106964,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Bain & Company,HDFC Asset Management Company,0.4906856417655945,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Bain & Company,VC firms,0.3969075083732605,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Bain & Company,Intel,0.3904486894607544,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Cellectis,OnePlus,0.33554208278656006,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Cellectis,EarthSense,0.28231602907180786,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Cellectis,Jobbio,0.2606486678123474,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Claroty,Keychron,0.3721603453159332,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Claroty,Sonos,0.274166077375412,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Claroty,Talkiatry,0.2730189561843872,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,DCB Bank,Karur Vysya Bank,0.48110324144363403,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,DCB Bank,HDFC Asset Management Company,0.3578621745109558,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,DCB Bank,Worldcoin,0.3168299198150635,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,DJI,Pina Manique,0.3392946422100067,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,DJI,Jobbio,0.3270798325538635,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,DJI,RIT Dubai,0.3119269907474518,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,EarthSense,ServiceNow,0.38634616136550903,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,EarthSense,SpaceX,0.3308961093425751,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,EarthSense,Worldcoin,0.3187028169631958,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Falcon Northwest,SpaceX,0.3527379333972931,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Falcon Northwest,Perfect Grounds,0.29735177755355835,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Fool's Theory,Optimism,0.2782857418060303,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Fool's Theory,Perfect Grounds,0.27610528469085693,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Fool's Theory,LogicMonitor,0.2252810299396515,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Google,StreetInsider.com,0.4039303958415985,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Google,Meta,0.3856489956378937,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Google,Investing.com,0.3250619173049927,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,HDFC Asset Management Company,VC firms,0.29526287317276,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,ION Audio,Sony,0.36662808060646057,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,ION Audio,Talkiatry,0.34063899517059326,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,ION Audio,Intel,0.3399064540863037,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Infinite Uptime,Sonos,0.2551928162574768,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Infinite Uptime,Keychron,0.25398772954940796,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Infinite Uptime,LogicMonitor,0.22858168184757233,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Intel,Keychron,0.3668781816959381,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Investing.com,Worldcoin,0.34349536895751953,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Investing.com,StreetInsider.com,0.3366854190826416,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Jobbio,Pina Manique,0.30762237310409546,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Jobbio,Sony,0.2993462085723877,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Karur Vysya Bank,Worldcoin,0.2936876714229584,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Keychron,Numark,0.34384071826934814,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Lava,Sonos,0.3121759593486786,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Lava,Meta,0.3007088005542755,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,LogicMonitor,ServiceNow,0.29166722297668457,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Meta,Waymo,0.30766552686691284,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Numark,Temasek,0.35414743423461914,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,OnePlus,SpaceX,0.37373870611190796,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,OnePlus,Sonos,0.3606269657611847,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Optimism,VC firms,0.23119565844535828,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Patrick Racz's firm,VC firms,0.3479849696159363,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Patrick Racz's firm,Temasek,0.32934314012527466,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Pina Manique,Talkiatry,0.31505537033081055,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,ServiceNow,Telent Technology Services,0.3716607093811035,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Sony,SpaceX,0.3817172944545746,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Talkiatry,Telent Technology Services,0.29363203048706055,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Company,Telent Technology Services,VC firms,0.294895201921463,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Brian Robinson,Mike Engle,0.5034455060958862,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Brian Robinson,Patrick Racz,0.3909569978713989,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Brian Robinson,Michael Cichon,0.34349769353866577,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Danielle Meister,Kirstie McDermott,0.39795634150505066,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Danielle Meister,Michael Cichon,0.3600314259529114,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Danielle Meister,Gayle Schueller,0.31362926959991455,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Gayle Schueller,Mike Engle,0.4259008467197418,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Gayle Schueller,Kirstie McDermott,0.41140973567962646,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Gayle Schueller,Patrick Racz,0.38408219814300537,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Jack O’Donnell,Kirstie McDermott,0.3690603971481323,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Jack O’Donnell,Patrick Racz,0.34390485286712646,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Jack O’Donnell,Sam Altman,0.33522647619247437,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Kiki Silva,Kirstie McDermott,0.4348159432411194,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Kiki Silva,Patrick Racz,0.42415469884872437,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Kiki Silva,Michael Cichon,0.4179646074771881,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Kirstie McDermott,Mike Engle,0.4223133623600006,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Michael Cichon,Michael Roman,0.5228192806243896,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Michael Cichon,Mike Engle,0.41818124055862427,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Person,Michael Roman,Mike Engle,0.440165638923645,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,AI,Bitcoin 360 AI,0.5498356819152832,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,AI,autonomous vehicles,0.5339565873146057,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,AI,intelligent software,0.5193790197372437,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Bitcoin 360 AI,autonomous vehicles,0.34238606691360474,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Bitcoin 360 AI,intelligent software,0.3208499550819397,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,BlockID Identity orchestration,BlockID platform,0.6538926362991333,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,BlockID platform,gene-editing platform,0.25815603137016296,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,EarthSense Zephyr,The Thaumaturge,0.3149702250957489,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,EarthSense Zephyr,PineTab2,0.23631231486797333,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,EarthSense Zephyr,RK3566,0.2358183115720749,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Instagram,monitor,0.32743704319000244,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Instagram,Starlink,0.3014379143714905,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Intel Core i5-13600K,gaming PCs,0.29744982719421387,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Intel Core i5-13600K,monitor,0.2731698155403137,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Mechanical Engineering program,mechanical keyboard,0.3449256420135498,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Mechanical Engineering program,mechanical metamaterials,0.30568525195121765,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Mechanical Engineering program,intelligent software,0.28547680377960205,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,PineTab2,RK3566,0.43043941259384155,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,PineTab2,Starlink,0.381908655166626,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Project Leonardo,intelligent software,0.3209182620048523,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Project Leonardo,Sonos Era 300,0.28339141607284546,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,RK3566,Ronin 4D Flex,0.25282591581344604,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,RK3566,iOS 17,0.236139714717865,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Ronin 4D Flex,mechanical keyboard,0.29474419355392456,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Ronin 4D Flex,Smartflash,0.24581000208854675,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Smartflash,intelligent software,0.33763056993484497,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Sonos Era 100,watchOS 10,0.41232752799987793,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Sonos Era 300,watchOS 10,0.36481598019599915,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,Starlink,watchOS 10,0.26867225766181946,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,autonomous vehicles,intelligent software,0.41578930616378784,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,delivery drones,intelligent software,0.19253653287887573,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,gaming PCs,monitor,0.41640180349349976,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,gene-editing platform,intelligent software,0.36267977952957153,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,iOS 17,monitor,0.22907374799251556,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,ion track technology,vibration monitoring,0.23242753744125366,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,ion track technology,mechanical metamaterials,0.22631146013736725,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,iris-scanning,monitor,0.31059136986732483,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,mechanical keyboard,mechanical metamaterials,0.3456069827079773,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,monitor,watchOS 10,0.3897087574005127,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
+Technology,monitor,vibration monitoring,0.34983325004577637,REJECT_THRESHOLD,Below merge threshold 0.90; retained separately.
